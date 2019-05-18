@@ -1,3 +1,7 @@
 # learnskills
 test
-Creating a new branch(decv) is quick & simple.
+<<<<<<< HEAD
+Creating a new branch(decv) is quick and simple.
+=======
+Creating a new branch(decv) is quick and simple.
+>>>>>>> future_1
